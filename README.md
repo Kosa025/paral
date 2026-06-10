@@ -1,16 +1,16 @@
 # Paralinguistic Features in Emotional Speech
 ### Human vs AI-Generated Voice Analysis
 
-Bachelor's thesis project — Kozminski University, 2026  
+Bachelor's thesis project, Kozminski University, 2026  
 Author: Maciej Makosa  
 Supervisor: Prof. Aleksandra Przegalińska
 
 ## Repository Contents
-- `feature_extraction.ipynb` — Component 1 & 2: 
+- `feature_extraction.ipynb` - Component 1 & 2: 
   49-feature extraction from RAVDESS and ElevenLabs
-- `emotion_detection.ipynb` — Component 3: 
+- `emotion_detection.ipynb` - Component 3: 
   Hume AI and SpeechBrain benchmarking
-- `survey_analysis.ipynb` — Component 4: 
+- `survey_analysis.ipynb` - Component 4: 
   Perceptual survey analysis (n=78)
 
 ## Data
